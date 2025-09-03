@@ -4,6 +4,8 @@ This project analyzes Vrinda Store’s sales data to uncover key insights about 
 The goal is to provide clear recommendations for improving sales and customer targeting.
 
 ---
+<img width="1766" height="662" alt="image" src="https://github.com/user-attachments/assets/6ff95cf7-1877-4cee-a597-783c30b3efec" />
+
 
 ## 🚀 Project Overview
 - Built an interactive dashboard in **Excel** (Pivot Tables & Charts).  
