@@ -46,6 +46,12 @@ The goal is to provide clear recommendations for improving sales and customer ta
 - Launch **festive/Q4 campaigns** to boost sales.  
 - Improve product descriptions, size guides, and quality checks to reduce cancellations/returns.  
 
+## 📬 Contact & Connect
+
+If you’d like to discuss data analytics, Python projects, or collaboration opportunities, feel free to reach out:
+
+- **LinkedIn:** https://in.linkedin.com/in/savarbajiya  
+- **Email:** savar23@gmail.com
 ---
 
 ## 📂 Repository Structure
